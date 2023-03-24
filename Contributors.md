@@ -10,6 +10,7 @@
 - [Antonio Zurita] (https://github.com/AntonioJZP86)
 - [Mohamed Essam] (https://github.com/mohamed-official/)
 - [Bikal Koju] ()
+- [Anubhav Singh Chandel](https://github.com/AnubhavSinghChandel)
 - [Roshan Singh Bhadauriya] (https://github.com/Roshanbhadauriya)
 - [Subha Mishra](https://github.com/SubhaMishra1998)
 - [Nancy Kasaudhan](https://github.com/nancyKasaudhan20)
